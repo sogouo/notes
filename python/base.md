@@ -22,7 +22,7 @@
    
 ```
 结果
-<img src="./images/join.png" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./images/join.png"  alt="图片名称" align=center />
 ```php
    <?php
    fruits = array('orange', 'pear', 'apple', 'banana');
@@ -31,4 +31,4 @@
 
 ```
 结果
-<img src="./images/php-implode.png" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./images/php-implode.png" alt="图片名称" align=center />
