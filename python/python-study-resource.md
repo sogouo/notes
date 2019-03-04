@@ -38,3 +38,10 @@ http://www.pythondoc.com/
 Python 3.7 官方文档: 入门教程
 https://learnku.com/docs/tutorial/3.7.0
 
+
+Python 知识社区 - PythonCaff.com 的精华输出
+维护者: Summer (Laravel 中文社区维护者以及文档翻译者，大神)
+知乎专栏: https://zhuanlan.zhihu.com/pythoncaff
+社区地址: https://learnku.com/python
+
+
