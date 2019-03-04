@@ -27,3 +27,14 @@ http://www.pythontutor.com/
 Pycoder 周报
 https://pycoders.com/
 Description: Stay Up-to-Date With Your Weekly Dose Of Python
+
+
+
+Python 中文文档
+http://www.pythondoc.com/
+
+
+
+Python 3.7 官方文档: 入门教程
+https://learnku.com/docs/tutorial/3.7.0
+
