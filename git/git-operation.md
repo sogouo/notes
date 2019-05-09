@@ -62,6 +62,8 @@ gitlab 或者 github 从 A 用户下B仓库(或者项目) fork 自己(C)的 D �
 	git remote add upstream B
 	git pull upstream <branch-name>
 
+	git 更改远程origin
+	https://blog.csdn.net/zhou_aa/article/details/53391718
 
 
 
