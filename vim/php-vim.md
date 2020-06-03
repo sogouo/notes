@@ -62,3 +62,15 @@ https://www.reddit.com/r/vim/comments/3hfurn/best_plugins_and_settings_for_autoc
 https://www.quora.com/What-is-the-best-PHP-plugin-for-Vim
 php plugin for vim
 
+
+
+Improved PHP omnicompletion
+https://github.com/shawncplus/phpcomplete.vim
+
+关于 YoucompleteMe php 配置
+搜索的问题:
+    YouCompleteMe php config
+
+
+
+

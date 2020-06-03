@@ -38,7 +38,9 @@
     print date_obj.replace(year=date_obj.year + 1)
 
 
+问题四: 输出当天日期字符串
 
+    
 
 学习
 https://www.runoob.com/python/python-exercise-example16.html

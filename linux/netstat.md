@@ -14,3 +14,18 @@ netstat -au	#列出所有 udp 端口
 
 
 
+ubuntu rar
+apt-get install rar
+
+rar 文件名成
+https://blog.csdn.net/yonggeit/article/details/72190246
+
+
+
+tar 解压和打包
+    
+    tar -cvf xx.tar 
+
+    tar -xvf xx.tar
+
+    http://c.biancheng.net/view/788.html

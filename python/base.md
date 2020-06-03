@@ -51,13 +51,7 @@ replace 语法
     print tag # 原来tag
 特殊声明: replace 不会改变原来 string 的内容
 
-
-
-
-
-
-
-
+https://www.cnblogs.com/yes123/p/5279843.html
 
 
 感谢:
@@ -67,11 +61,33 @@ replace 语法
 
 
 
+list 循环
+
+enumerate(sequence, [start=0])
+sequence -- 一个序列、迭代器或其他支持迭代对象。
+start -- 下标起始位置。
 
 
 
+python getattr
+https://docs.python.org/2/library/functions.html
+https://www.cnblogs.com/cenyu/p/5713686.html
+https://www.runoob.com/python/python-func-getattr.html
+https://segmentfault.com/q/1010000000713465
 
 
 
+pip 升级以及设置
+https://www.runoob.com/w3cnote/python-pip-install-usage.html
 
 
+#### Python Dictionary update function
+>  将字典dict2 的键/值对更新到dict 里
+>  1. update() 方法语法:
+>     > dict.update(dict2)
+>  2. 参数
+>     > dict2 -- 添加到指定字典dict里到字典
+>  3. 返回值
+>     > 该方法没有任何返回值
+>
+>  4. 如果有相同的键会直接替换成update的值

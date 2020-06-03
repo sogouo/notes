@@ -45,3 +45,23 @@ Python 知识社区 - PythonCaff.com 的精华输出
 社区地址: https://learnku.com/python
 
 
+
+Requests
+https://2.python-requests.org//zh_CN/latest/user/quickstart.html
+http://cn.python-requests.org/zh_CN/latest/user/quickstart.html
+
+
+fask-restful
+https://github.com/flask-restful/flask-restful/blob/master/flask_restful/reqparse.py
+
+
+walle-web
+https://github.com/meolu/walle-web
+
+
+
+https://unbug.github.io/codelf/
+
+
+内置函数
+https://docs.python.org/2/library/functions.html
